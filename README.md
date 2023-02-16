@@ -1,5 +1,3 @@
-# portfolio
-
 # Thinkful Portfolio WebPage
 
 * List
