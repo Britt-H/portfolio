@@ -1,9 +1,10 @@
 # Thinkful Portfolio WebPage
 
-* List
+* Section list
+* Header Section
 * Intro Section
 * About Me
-* Contacts
+* Contact Links
 
 ---
 
