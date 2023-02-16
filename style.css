@@ -1,5 +1,5 @@
 header {
-  height: 70px;
+  height: 90px;
   background-color: black;
   color: white;
   background-size: cover;
@@ -55,6 +55,11 @@ div nav a {
 }
 
 ul {
+  text-align: center;
+  list-style: inside;
+}
+
+ol {
   text-align: center;
   list-style: inside;
 }
